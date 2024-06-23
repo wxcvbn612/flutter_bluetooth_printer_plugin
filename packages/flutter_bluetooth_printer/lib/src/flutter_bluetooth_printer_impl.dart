@@ -7,7 +7,7 @@ class DiscoveryResult extends DiscoveryState {
 
 enum PaperSize {
   // original is 384 => 48 * 8
-  mm58(360, 58, 'Roll Paper 58mm');
+  mm58(497, 80, 'Roll Paper 80mm');
   mm80(497, 80, 'Roll Paper 80mm');
 
   final int width;
